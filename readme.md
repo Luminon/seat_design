@@ -1,5 +1,9 @@
 # README FOR Seat Design.
 
+## GUIDE
+![Guide](readme_guide.png)
+- `readme_guide.png`를 확인하세요.
+
 ## For Develop Information
 - 그래프의 경우[이 라이브러리](https://github.com/HackPlan/AndroidCharts)를 기준으로 디자인함.
 
